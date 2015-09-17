@@ -1,0 +1,19 @@
+/bin
+/build
+/tmp
+/release
+/lib
+/libtest
+/libgen
+/*.zip
+/target
+/.bower_components
+
+# /WebContent/
+/WebContent/components
+
+# /WebContent/WEB-INF/
+/WebContent/WEB-INF/classes
+
+# /WebContent/WEB-INF/lib/
+/WebContent/WEB-INF/lib/*.jar
